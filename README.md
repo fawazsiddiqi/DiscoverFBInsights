@@ -1,4 +1,4 @@
-# DiscoverFBInsights
+# Discover hidden Facebook usage insights
 
 Thank you for attending the workshop, in this repository you can find the slides and the sign up links!
 
